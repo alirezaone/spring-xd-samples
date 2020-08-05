@@ -1,6 +1,8 @@
 Spring XD Samples
 =================
 
+This is forked from spring-xd-samples project. Apache Kafka is exposed as both a Spring XD source and a sink.
+
 This repository provides sample starter applications and code for use with the [Spring XD][] project. The following samples are available:
 
 ### analytics-dashboard
